@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2747212463.index
+886270063.index
+1632225163.index
+1677097898.index
+4067949153.index
+3728965228.index

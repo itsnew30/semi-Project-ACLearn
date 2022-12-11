@@ -1,0 +1,11 @@
+INDEX VERSION 1.131
+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3767956803.index
+\ACLearn\src\main\java
+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3144717481.index
+\ACLearn\src\main\java
+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3526192750.index
+\ACLearn\src\main\java
+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3302106746.index
+\ACLearn\src\main\java
+C:\Mini\ACLearn\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2965632539.index
+\ACLearn\src\main\java

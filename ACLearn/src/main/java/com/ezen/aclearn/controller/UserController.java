@@ -32,28 +32,6 @@ public class UserController {
 	@Autowired
 	private UserService userService;
 	
-
-		// kakao
-		private static final Logger logger = LoggerFactory.getLogger(UserController.class);
-		
-	
-		@RequestMapping(value = "/login.do", method = RequestMethod.GET)
-		public String login(Locale locale, Model model) {
-			logger.info("Welcome home! The client locale is {}.", locale);
-			
-			Date date = new Date();
-			DateFormat dateFormat = DateFormat.getDateTimeInstance(DateFormat.LONG, DateFormat.LONG, locale);
-			
-			String formattedDate = dateFormat.format(date);
-			
-			model.addAttribute("serverTime", formattedDate );
-			
-			return "login";
-		}
-		
-	
-	
-	
 	// 회원가입 화면으로 이동
 	@GetMapping("/join.do")
 	public String joinView() {
